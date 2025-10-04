@@ -17,6 +17,9 @@ public class Seleniumdemo {
 		
 		
 		driver.get("https://en.wikipedia.org/wiki/Google_Meet");
+		
+		
+		System.out.println("text message");
 
 	}
 
